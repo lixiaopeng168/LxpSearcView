@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SearchView</string>
+    <string name="switch_text">切换搜索左右方向</string>
+</resources>

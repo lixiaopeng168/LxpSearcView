@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\AndroidProjects\\SearchView\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\current_search_gray.png",
+        "source": "E:\\AndroidProjects\\SearchView\\app\\src\\main\\res\\mipmap-hdpi\\current_search_gray.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\SearchView\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\current_cancel02.png",
+        "source": "E:\\AndroidProjects\\SearchView\\app\\src\\main\\res\\mipmap-hdpi\\current_cancel02.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\SearchView\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "E:\\AndroidProjects\\SearchView\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\AndroidProjects\\SearchView\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "E:\\AndroidProjects\\SearchView\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

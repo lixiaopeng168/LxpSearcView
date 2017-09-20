@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="SearchView">
+        <attr name="searchHintText" format="string" />
+        <attr name="searchFlag" format="integer" />
+        <attr name="searchPaddingLeft" format="dimension" />
+        <attr name="searchPaddingRight" format="dimension" />
+    </declare-styleable>
+
+</resources>
